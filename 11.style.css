@@ -1,0 +1,39 @@
+div {
+    
+    /* background-color: lightcoral;
+    color: whitesmoke; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    border: 5px solid black;
+}
+
+.bg-red {
+    background-color: red;
+}
+.bg-blue {
+    background-color: cyan;
+}
+.bg-green {
+    background-color: green;
+}
+
+.txt-white {
+    color: white;
+}
+.txt-purple {
+    color : purple;
+}
+.naver-color {
+    color : rgb(0,160,57);
+    font-size: 20pt;
+}
+
+/* ------------------------event--------- */
